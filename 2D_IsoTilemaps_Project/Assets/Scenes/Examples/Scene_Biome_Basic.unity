@@ -331,22 +331,22 @@ PrefabInstance:
     - target: {fileID: 886031103182508492, guid: a715e6498a8f8444e8af75aa518ea006,
         type: 3}
       propertyPath: m_NormalizedViewPortRect.y
-      value: 0
+      value: 0.0011750881
       objectReference: {fileID: 0}
     - target: {fileID: 886031103182508492, guid: a715e6498a8f8444e8af75aa518ea006,
         type: 3}
       propertyPath: m_NormalizedViewPortRect.width
-      value: 1
+      value: 0.9993391
       objectReference: {fileID: 0}
     - target: {fileID: 886031103182508492, guid: a715e6498a8f8444e8af75aa518ea006,
         type: 3}
       propertyPath: m_NormalizedViewPortRect.height
-      value: 1
+      value: 0.99647474
       objectReference: {fileID: 0}
     - target: {fileID: 886031103182508492, guid: a715e6498a8f8444e8af75aa518ea006,
         type: 3}
       propertyPath: m_ForceIntoRT
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 886031103182508492, guid: a715e6498a8f8444e8af75aa518ea006,
         type: 3}
@@ -362,6 +362,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_BackGroundColor.b
       value: 0.5471698
+      objectReference: {fileID: 0}
+    - target: {fileID: 886031103182508492, guid: a715e6498a8f8444e8af75aa518ea006,
+        type: 3}
+      propertyPath: orthographic size
+      value: 3.3125
       objectReference: {fileID: 0}
     - target: {fileID: 1343731013812197621, guid: a715e6498a8f8444e8af75aa518ea006,
         type: 3}
